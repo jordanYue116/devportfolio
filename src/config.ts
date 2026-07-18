@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/jordanYue116",
   },
   aboutMe:
-    "I love rice",
+    "Hey, I’m Jordan and I am currently a rising high school senior looking to start a career in software engineering. I am extremely passionate about furthering my knowledge about coding, programming, and software development, and am currently looking for opportunities to expand and apply my technical proficiencies. In my free time, I like to play the piano, play badminton, and develop games.",
   skills: ["Javascript", "Java", "C#", "Python", "HTML", "CSS"],
   projects: [
     {
