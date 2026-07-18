@@ -14,25 +14,25 @@ export const siteConfig = {
   skills: ["Javascript", "Java", "C#", "Python", "HTML", "CSS"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Quantum Computer Simulation",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A quantum computer simulated through classical computing to find the ground state of a hydrogen molecule.",
+      link: "https://colab.research.google.com/drive/14O9m-nO30NYVZddac6GpWD6EJWMdrVA2?usp=sharing",
+      skills: ["Python", "Numpy", "Matplotlib", "OpenFermion", "QuTiP"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Spiderman Game Demo",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A proof of concept with a grid-snapping level editor, swinging mechanics, player-tracking enemies, and simulated camera movement",
+      link: "https://scratch.mit.edu/projects/876972949/fullscreen/",
+      skills: ["Scratch"],
     },
     {
-      name: "ExtensionKit",
+      name: "Timer Terror",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A game that utilizes collisions mechanics, gravity, and an enemy with player position tracking",
+      link: "https://scratch.mit.edu/projects/857488086/fullscreen/",
+      skills: ["Scratch"],
     },
   ],
   experience: [
