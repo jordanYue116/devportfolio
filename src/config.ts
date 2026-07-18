@@ -21,6 +21,13 @@ export const siteConfig = {
       skills: ["Python", "Numpy", "Matplotlib", "OpenFermion", "QuTiP"],
     },
     {
+      name: "Gotta Go Fax 3D",
+      description:
+        "A three dimensional game made in a two dimensional game engine with collision mechanics, infinite terrain generation, and interactive menus",
+      link: "https://scratch.mit.edu/projects/815852228/fullscreen/",
+      skills: ["Scratch"],
+    },
+    {
       name: "Spiderman Game Demo",
       description:
         "A proof of concept with a grid-snapping level editor, swinging mechanics, player-tracking enemies, and simulated camera movement",
@@ -37,55 +44,45 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Quantum, Computing, Mathematics, & Physics Program (Berkeley Lab)",
+      title: "Summer Intern",
+      dateRange: " June 2026 – July 2026",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Collaborated with 15+ fellow interns on teaching quantum computing concepts",
+        "Utilized linear algebra, quantum superposition, and logical gates in tandem to build a quantum computer simulation",
+        "Presented quantum simulation project to an audience of 30+ people",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Hercules High School Robotics Club",
+      title: "Coding Lead",
+      dateRange: "September 2025 – Present",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Commanded and oversaw 20+ members’ coding progress",
+        "Competed in 8 competitions against 8 other schools, solving multiple coding challenges within a  two-minute time constraint to earn points",
+        "Contributed to 1st and 2nd place placements in the 2025 and 2026 PiE (Pioneers in Engineering) Robotics Competitions with points scored from aforementioned coding challenges",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "MESA (Math Engineering Science Achievement) Club",
+      title: "Co-President",
+      dateRange: "September 2025 – June 2026",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Hosted biweekly general meetings to update 90+ general members about upcoming competition logistics and to check in on project progressions",
+        "Managed 5 executive board members and allocated tasks to ensure that all projects received feedback before competitions",
+        "Judged and provided constructive criticism on 25+ group projects, from multiple categories,  prior to competitions, to ensure the optimization of scores",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Rising Senior",
+      degree: "Hercules High School",
+      dateRange: "2023-2027",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "GPA: 4.5 (Weighted), 4.0 (Unweighted)",
+        "SAT: 1550",
+        "AP Scholar with Distinction Award",
       ],
     },
   ],
